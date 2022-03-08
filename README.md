@@ -1,3 +1,5 @@
+![KAYA Travel Blog](Screenshots/deployedBlogWebsite.png)
+
 # Deploy Static Website on AWS
 This is one of the project in Udacity Cloud DevOps Engineer Nanodegree.
 
